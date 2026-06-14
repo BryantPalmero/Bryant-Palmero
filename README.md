@@ -32,10 +32,20 @@ Through these projects, I hope to gain experience with:
 # Current Projects
 - Raspberry Pi 5 Cybersecurity Home Lab (In Progress)
 
+# Certifications & Coursework
+- CCNA 1
+- CCNA 2
+- CompTIA A+ Coursework
+- CompTIA Network+ Coursework
+- Security+ Coursework
+- ECCouncil CEH 
+
 # Long Term Career Interest include:
+
 - SOC Analyst
 - Penetration Testing
 - Security Engineering
+- ISSO
 
 
 Associate of Science in Cyber Defense
